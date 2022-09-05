@@ -1,0 +1,101 @@
+{
+    "m_SelectedDeviceId": "23f92724581e7ece",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "23f92724581e7ece",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5779,
+            "exited": false
+        },
+        {
+            "deviceId": "23f92724581e7ece",
+            "name": "com.Ballstionary.Dicktionary",
+            "processId": 26308,
+            "exited": true
+        },
+        {
+            "deviceId": "23f92724581e7ece",
+            "name": "com.Ballstionary.Dicktionary",
+            "processId": 1155,
+            "exited": true
+        },
+        {
+            "deviceId": "23f92724581e7ece",
+            "name": "com.Ballstionary.Dicktionary",
+            "processId": 8947,
+            "exited": true
+        },
+        {
+            "deviceId": "23f92724581e7ece",
+            "name": "com.Ballstionary.Dicktionary",
+            "processId": 13036,
+            "exited": true
+        },
+        {
+            "deviceId": "23f92724581e7ece",
+            "name": "com.Ballstionary.Dicktionary",
+            "processId": 26044,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 500.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
