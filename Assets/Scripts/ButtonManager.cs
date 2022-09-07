@@ -122,7 +122,7 @@ public class ButtonManager : MonoBehaviour
         if (!GameInspector.currentGameInspector.IsConnectedToInternet())
             return;
         bool watched;
-        if (Data.PlayerData.MegaGay)
+        if (Data.PlayerData.premium)
         {
             watched = true;
         }
